@@ -8,4 +8,3 @@ I am Brett Herschmiller, a results-driven web developer with 2 years of experien
 
 - 🌐 Portfolio: brettherschmiller.com
 - 📧 Email: contact@brettherschmiller.com
--
